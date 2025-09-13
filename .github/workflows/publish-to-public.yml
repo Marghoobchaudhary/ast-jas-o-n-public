@@ -1,0 +1,33 @@
+name: Publish JSONs to Public Repo
+
+on:
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout scraper repo
+        uses: actions/checkout@v4
+
+      - name: Clone public repo
+        run: |
+          git clone https://github.com/<YOUR-USER>/laredo-json-public.git public-data
+
+      - name: Copy JSONs
+        run: |
+          mkdir -p public-data/files
+          rsync -av --delete files/ public-data/files/
+
+      - name: Commit & push to public repo
+        env:
+          GIT_AUTHOR_NAME: github-actions[bot]
+          GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          GIT_COMMITTER_NAME: github-actions[bot]
+          GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          TOKEN: ${{ secrets.PUBLIC_REPO_TOKEN_LRDO }}
+        run: |
+          cd public-data
+          git add -A
+          git commit -m "Update JSONs $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "No changes"
+          git push https://$TOKEN@github.com/<YOUR-USER>/laredo-json-public.git HEAD:main
