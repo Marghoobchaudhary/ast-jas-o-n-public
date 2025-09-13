@@ -12,7 +12,7 @@ jobs:
 
       - name: Clone public repo
         run: |
-          git clone https://github.com/Marghoobchaudhary/laredo-json-public.git public-data
+          git clone https://github.com/Marghoobchaudhary/ast-jas-o-n-public.git public-data
 
       - name: Copy JSONs
         run: |
@@ -30,4 +30,4 @@ jobs:
           cd public-data
           git add -A
           git commit -m "Update JSONs $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "No changes"
-          git push https://$TOKEN@github.com/<YOUR-USER>/laredo-json-public.git HEAD:main
+          git push https://$TOKEN@github.com/Marghoobchaudhary/ast-jas-o-n-public.git HEAD:main
