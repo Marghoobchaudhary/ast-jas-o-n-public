@@ -12,7 +12,7 @@ jobs:
 
       - name: Clone public repo
         run: |
-          git clone https://github.com/<YOUR-USER>/laredo-json-public.git public-data
+          git clone https://github.com/Marghoobchaudhary/laredo-json-public.git public-data
 
       - name: Copy JSONs
         run: |
