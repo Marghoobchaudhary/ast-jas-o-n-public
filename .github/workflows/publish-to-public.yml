@@ -1,33 +1,75 @@
-name: Publish JSONs to Public Repo
+name: Pull Scraper From Private + Publish
 
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+env:
+  PRIVATE_REPO: "<YOUR-USER>/<PRIVATE-REPO>"   # e.g. your-user/Laredo-Scraper-json-Output-Repo-Pack
+  PUBLIC_OUT_DIR: "files"
+
 jobs:
-  publish:
+  run:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout scraper repo
+      - name: Checkout PUBLIC repo (this repo)
         uses: actions/checkout@v4
 
-      - name: Clone public repo
-        run: |
-          git clone https://github.com/Marghoobchaudhary/ast-jas-o-n-public.git public-data
+      - name: Checkout PRIVATE scraper repo
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ env.PRIVATE_REPO }}
+          token: ${{ secrets.PRIVATE_REPO_TOKEN }}  # PAT with repo scope, stored in PUBLIC repo secrets
+          path: private-src
+          persist-credentials: false
 
-      - name: Copy JSONs
-        run: |
-          mkdir -p public-data/files
-          rsync -av --delete files/ public-data/files/
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
-      - name: Commit & push to public repo
+      - name: Install deps
+        working-directory: private-src
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Setup Chrome
+        uses: browser-actions/setup-chrome@v1
+        with:
+          chrome-version: stable
+
+      - name: Run scraper in PRIVATE repo workspace
         env:
-          GIT_AUTHOR_NAME: github-actions[bot]
-          GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
-          GIT_COMMITTER_NAME: github-actions[bot]
-          GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
-          TOKEN: ${{ secrets.PUBLIC_REPO_TOKEN_LRDO }}
+          LAREDO_USERNAME: ${{ secrets.LAREDO_USERNAME }}
+          LAREDO_PASSWORD: ${{ secrets.LAREDO_PASSWORD }}
+        working-directory: private-src
         run: |
-          cd public-data
+          mkdir -p files
+          python laredo_scraper.py --headless --out files --wait 20 --max-parties 6 --rescrape-indices "1 2"
+
+      - name: Verify output exists
+        run: |
+          shopt -s nullglob
+          count=( private-src/files/*.json )
+          if [ "${#count[@]}" -eq 0 ]; then
+            echo "No JSON files found in private-src/files — scraper failed?"
+            exit 1
+          fi
+          echo "Found ${#count[@]} JSON file(s)."
+
+      - name: Copy into PUBLIC repo tree
+        run: |
+          mkdir -p "${{ env.PUBLIC_OUT_DIR }}"
+          rsync -av private-src/files/ "${{ env.PUBLIC_OUT_DIR }}/"
+
+      - name: Commit & push to PUBLIC repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "Update JSONs $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "No changes"
-          git push https://$TOKEN@github.com/Marghoobchaudhary/ast-jas-o-n-public.git HEAD:main
+          git commit -m "Publish JSONs $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "No changes"
+          git push
