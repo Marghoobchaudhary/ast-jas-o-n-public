@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": "jefferson-county-1",
+    "Doc Number": "2025R-023313",
+    "Party1": "MILLSAP AND SINGER PC (GRANTEE)",
+    "Party2": "FREEDOM MORTGAGE CORP  (GRANTOR)",
+    "Party3": "FOX JEFFEREY  (GRANTOR)",
+    "Party4": "",
+    "Party5": "",
+    "Party6": "",
+    "Book & Page": null,
+    "Doc Date": "09/04/2025",
+    "Recorded Date": "09/12/2025",
+    "Doc Type": "APPOINTMENT",
+    "Assoc Doc": "2010R-018818 ",
+    "Legal Summary": "Sub: HILLANDALE  9-41 ",
+    "Consideration": "$0.0",
+    "Pages": 2
+  },
+  {
+    "id": "jefferson-county-4",
+    "Doc Number": "2025R-023280",
+    "Party1": "US BANK (GRANTOR)",
+    "Party2": "SOUTHLAW PC  (GRANTEE)",
+    "Party3": "DOOLEY MICHAEL D  (GRANTOR)",
+    "Party4": "",
+    "Party5": "",
+    "Party6": "",
+    "Book & Page": null,
+    "Doc Date": "09/09/2025",
+    "Recorded Date": "09/12/2025",
+    "Doc Type": "APPOINTMENT",
+    "Assoc Doc": "2021R-042702 ",
+    "Legal Summary": "Sub: SILVER MEADOWS BL 3  25-18  Lot: 16",
+    "Consideration": "$0.0",
+    "Pages": 2
+  }
+]
