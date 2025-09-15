@@ -1,4 +1,425 @@
 {
-  "docs_list": [],
-  "auth_token": "Bearer eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkEyNTZDQkMtSFM1MTIiLCJraWQiOiI2MkUxMDZBNkRERkM2MUZDQUVENDMwQUI3NTUyRDM1OEQ0OTgyODRBIiwidHlwIjoiYXQrand0IiwiY3R5IjoiSldUIn0.4c7IuccTulrXYy1e_akqKPfbnZP14oCvBiZPGJ8XOeEkr1IxaKg3JEQzvLfd4K5gGv2iShiYhKZSqZoYmTD5RT_3T_NIOvWHpBM8a36HtCih54ZyGtvJ1vM28LAEfoEoEHLfNAqXKOCMa6mz5hm2Zwh9izYLbauv7fpGsrncGZEuLvQnKv1LoM-iuYlzv0ovy9VMhy7NH2Q986oDV_rI5Negyth_oHjdSSPPZ4b9R6C3xb62rvf2JyTlonXEGyyL7pT9DbgLyHTmeb-WW04sir55Ha2a0tCYgGPXgNyAtMAIZitCIy0sEWntGK1pEPUDhjZYMr2lZoOPzfeRn16mdw.fAQ-f9W9JMYlJo8hxOUPAA.DkTy7x5Tfuco32B-F4EktYonJebaDwXhPeRZ9clrWJ1betyTeWB5-of0RN613A-isIeZaAcbzuA1dgW0pSoXCM8b4dLIa1JJUorkd9s_W1prioGaUqLnzx09T_KI7-ZbV9RtdE2kVqHHrOnIWdauH89DxEyHNSt9nvJ64Yd7I7VrI6rvzCeWmS5X2seGuPzKWztQw9xhNOdFpzHRcBO1-aPw1d1e1_RknROa2zvAwH9HAZ1eST9sknu_z1LeuHQ1djdkH3vz8rakOvQxBYMEo5QexmoJijKWdfikEFa_DPsffAYArkV2rLX9JSEeWG5Oizu4PMK6ItAeMTWIJhgV12qtkfeDXuPXzOARNnXtx4NLBHQjYzmPMCkzYiH7fpqib_lRW-t7PgxEb34fH7ms47QWTrtlRalKwIYgbN6Ls_65r6Jw7M85-eFRLOsAYIAU8pIzxOnaG_AOaLHxrqX-iYfKNXIIIPkGLdP04pRNRH108mhWUqYJJQeIkrsYOX5H7sj2nNQDY2UVuJPfXZio-Y0r6CaAwf7PqG3W_CArPCWQGTMY-5f2AygWAzXgZsmJOLODH4AwMeqlMqj0CcYZ5nn3hTUMZZesJ-sSr4p0nxg-zKmv7NdA-u6xBI3K5-MOE4c9sGW28V31cPoJTcZWGULBUJumml7EsZ-wh3FMLxJF3f3nDRQ3_6Iri7yqQJTpbyIJSTYJuZ12-6u_t-9JB_zxu40ZsBzmksqmT3FdBL4xwpe55tGP09BGiWvEFZ06UzTYn26IUDhsRyy5bk366XBAGtyI2IKtKJwSkCCLlEmaKf4SaRpO_fxowK5z4CdblHCGWFQIQdFWwd0sKqsSxPhtHpvcDDVEwDSovXnY57LL_Nk2D5JlBztVJaq9TwGmvdCkrOEWBpXIa7WZc56EjYAsIU3UujXmoR2xHidyj4D1P9Vd02uCBRclzKwBC7BMMT7qTP1cZDq1YI3ZH8mG7hCVo4eJfzTYjUjenDDGiYDwqzjx7XLqtsLVDk798QeU4c5WTHUF3Lw3Q6fOcZXSuWUcoTsQPTvhYrXf9NOJBFL4MCxgg-u4Ay9Jqc1wyqxlnSTb7-Wantw7wtlSa0Jx3B6t3zYQD8K165-DY8JdnYyrZMKcILyqMnmjwcP3mK3zGPZaQDNGNY0RvIrZIEJ1YM0aZQqcHbbjEvXaaOGPi6KZ-6cDplBVv6EBiG3FTdTYQRZgGCi9eaeE5OCzhrRCMWzfYUr5QbQZ-JczmVOpXhzSH95-Eu0h3hhNJdOPPHr072XDEL0_4T2b5aSqLEs4sHpEpjka6k260vFs91n49BoKuRVihXFBq623He8_rd7u.X2I-qR0gv2vMgH80uhioI9Df4pKmpwMdwyXeqLX8grU"
+  "docs_list": [
+    {
+      "searchDocId": 2171055,
+      "docNo": 8306508,
+      "userDocNo": "2025R-023395",
+      "docType": "APPOINTMENT",
+      "docTypeCode": "APPOINT",
+      "docDate": "2025-09-10",
+      "docRecordedDateOnly": null,
+      "docRecordedTimeOnly": null,
+      "docRecordedDateTime": [
+        "2025-09-15",
+        "08:04:06.7733333"
+      ],
+      "refNo": "",
+      "bookPage": null,
+      "book": null,
+      "page": null,
+      "consideration": 0.0,
+      "legalSummary": "Sub: HIGH RIDGE ACRES  10-43A  Lot: 6",
+      "imageExists": true,
+      "docStatus": "A",
+      "partyOne": "SHELLPOINT MORTGAGE SERVICING ",
+      "partyOneType": "GRANTOR",
+      "partyTwo": "CSM FORECLOSURE TRUSTEE CORP ",
+      "partyTwoType": "GRANTEE",
+      "pages": 2,
+      "assocDocSummary": "2016R-036583 ",
+      "notes": null,
+      "associatedDocumentList": [
+        {
+          "id": 2111244,
+          "searchDocId": 1716027,
+          "name": "2016R-036583",
+          "imageExists": true,
+          "numberOfPages": 15,
+          "inRepository": true,
+          "documentType": "DEED OF TRUST"
+        }
+      ],
+      "legalList": [
+        {
+          "id": 1691057,
+          "legalType": "S",
+          "description": "HIGH RIDGE ACRES  10-43A L:6   ",
+          "notes": "BOOK: 0010 PAGE: 0043A\r\nCABINET: A SLIDE: 230",
+          "portion": null,
+          "propertyNotes": null,
+          "gisParcelStringUrl": null
+        }
+      ],
+      "lawPartyList": [
+        {
+          "id": 5978773,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "NEELY LINDA ",
+          "middleName": null,
+          "fullName": "NEELY LINDA "
+        },
+        {
+          "id": 5978772,
+          "partyTypeId": 2,
+          "partyTypeDescription": "GRANTEE",
+          "name": null,
+          "additionalName": "CSM FORECLOSURE TRUSTEE CORP ",
+          "middleName": null,
+          "fullName": "CSM FORECLOSURE TRUSTEE CORP "
+        },
+        {
+          "id": 5978774,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "NEWREZ LLC ",
+          "middleName": null,
+          "fullName": "NEWREZ LLC "
+        },
+        {
+          "id": 5978775,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "SHELLPOINT MORTGAGE SERVICING ",
+          "middleName": null,
+          "fullName": "SHELLPOINT MORTGAGE SERVICING "
+        }
+      ],
+      "returnTo": {
+        "id": 114118,
+        "address1": "15W030 NORTH FRONTAGE ROAD",
+        "address2": null,
+        "address3": "BURR RIDGE, IL  60527",
+        "fullAddress": "CODILIS, MOODY AND CIRCELLI, P.C.",
+        "name": "CODILIS, MOODY AND CIRCELLI, P.C."
+      },
+      "feeList": [
+        {
+          "id": 6,
+          "name": "RECORDING FEE",
+          "amount": 27.0
+        }
+      ],
+      "shielded": false
+    },
+    {
+      "searchDocId": 2171055,
+      "docNo": 8306508,
+      "userDocNo": "2025R-023395",
+      "docType": "APPOINTMENT",
+      "docTypeCode": "APPOINT",
+      "docDate": "2025-09-10",
+      "docRecordedDateOnly": null,
+      "docRecordedTimeOnly": null,
+      "docRecordedDateTime": [
+        "2025-09-15",
+        "08:04:06.7733333"
+      ],
+      "refNo": "",
+      "bookPage": null,
+      "book": null,
+      "page": null,
+      "consideration": 0.0,
+      "legalSummary": "Sub: HIGH RIDGE ACRES  10-43A  Lot: 6",
+      "imageExists": true,
+      "docStatus": "A",
+      "partyOne": "NEWREZ LLC ",
+      "partyOneType": "GRANTOR",
+      "partyTwo": "CSM FORECLOSURE TRUSTEE CORP ",
+      "partyTwoType": "GRANTEE",
+      "pages": 2,
+      "assocDocSummary": "2016R-036583 ",
+      "notes": null,
+      "associatedDocumentList": [
+        {
+          "id": 2111244,
+          "searchDocId": 1716027,
+          "name": "2016R-036583",
+          "imageExists": true,
+          "numberOfPages": 15,
+          "inRepository": true,
+          "documentType": "DEED OF TRUST"
+        }
+      ],
+      "legalList": [
+        {
+          "id": 1691057,
+          "legalType": "S",
+          "description": "HIGH RIDGE ACRES  10-43A L:6   ",
+          "notes": "BOOK: 0010 PAGE: 0043A\r\nCABINET: A SLIDE: 230",
+          "portion": null,
+          "propertyNotes": null,
+          "gisParcelStringUrl": null
+        }
+      ],
+      "lawPartyList": [
+        {
+          "id": 5978773,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "NEELY LINDA ",
+          "middleName": null,
+          "fullName": "NEELY LINDA "
+        },
+        {
+          "id": 5978772,
+          "partyTypeId": 2,
+          "partyTypeDescription": "GRANTEE",
+          "name": null,
+          "additionalName": "CSM FORECLOSURE TRUSTEE CORP ",
+          "middleName": null,
+          "fullName": "CSM FORECLOSURE TRUSTEE CORP "
+        },
+        {
+          "id": 5978774,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "NEWREZ LLC ",
+          "middleName": null,
+          "fullName": "NEWREZ LLC "
+        },
+        {
+          "id": 5978775,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "SHELLPOINT MORTGAGE SERVICING ",
+          "middleName": null,
+          "fullName": "SHELLPOINT MORTGAGE SERVICING "
+        }
+      ],
+      "returnTo": {
+        "id": 114118,
+        "address1": "15W030 NORTH FRONTAGE ROAD",
+        "address2": null,
+        "address3": "BURR RIDGE, IL  60527",
+        "fullAddress": "CODILIS, MOODY AND CIRCELLI, P.C.",
+        "name": "CODILIS, MOODY AND CIRCELLI, P.C."
+      },
+      "feeList": [
+        {
+          "id": 6,
+          "name": "RECORDING FEE",
+          "amount": 27.0
+        }
+      ],
+      "shielded": false
+    },
+    {
+      "searchDocId": 2171055,
+      "docNo": 8306508,
+      "userDocNo": "2025R-023395",
+      "docType": "APPOINTMENT",
+      "docTypeCode": "APPOINT",
+      "docDate": "2025-09-10",
+      "docRecordedDateOnly": null,
+      "docRecordedTimeOnly": null,
+      "docRecordedDateTime": [
+        "2025-09-15",
+        "08:04:06.7733333"
+      ],
+      "refNo": "",
+      "bookPage": null,
+      "book": null,
+      "page": null,
+      "consideration": 0.0,
+      "legalSummary": "Sub: HIGH RIDGE ACRES  10-43A  Lot: 6",
+      "imageExists": true,
+      "docStatus": "A",
+      "partyOne": "NEELY LINDA ",
+      "partyOneType": "GRANTOR",
+      "partyTwo": "CSM FORECLOSURE TRUSTEE CORP ",
+      "partyTwoType": "GRANTEE",
+      "pages": 2,
+      "assocDocSummary": "2016R-036583 ",
+      "notes": null,
+      "associatedDocumentList": [
+        {
+          "id": 2111244,
+          "searchDocId": 1716027,
+          "name": "2016R-036583",
+          "imageExists": true,
+          "numberOfPages": 15,
+          "inRepository": true,
+          "documentType": "DEED OF TRUST"
+        }
+      ],
+      "legalList": [
+        {
+          "id": 1691057,
+          "legalType": "S",
+          "description": "HIGH RIDGE ACRES  10-43A L:6   ",
+          "notes": "BOOK: 0010 PAGE: 0043A\r\nCABINET: A SLIDE: 230",
+          "portion": null,
+          "propertyNotes": null,
+          "gisParcelStringUrl": null
+        }
+      ],
+      "lawPartyList": [
+        {
+          "id": 5978773,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "NEELY LINDA ",
+          "middleName": null,
+          "fullName": "NEELY LINDA "
+        },
+        {
+          "id": 5978772,
+          "partyTypeId": 2,
+          "partyTypeDescription": "GRANTEE",
+          "name": null,
+          "additionalName": "CSM FORECLOSURE TRUSTEE CORP ",
+          "middleName": null,
+          "fullName": "CSM FORECLOSURE TRUSTEE CORP "
+        },
+        {
+          "id": 5978774,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "NEWREZ LLC ",
+          "middleName": null,
+          "fullName": "NEWREZ LLC "
+        },
+        {
+          "id": 5978775,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "SHELLPOINT MORTGAGE SERVICING ",
+          "middleName": null,
+          "fullName": "SHELLPOINT MORTGAGE SERVICING "
+        }
+      ],
+      "returnTo": {
+        "id": 114118,
+        "address1": "15W030 NORTH FRONTAGE ROAD",
+        "address2": null,
+        "address3": "BURR RIDGE, IL  60527",
+        "fullAddress": "CODILIS, MOODY AND CIRCELLI, P.C.",
+        "name": "CODILIS, MOODY AND CIRCELLI, P.C."
+      },
+      "feeList": [
+        {
+          "id": 6,
+          "name": "RECORDING FEE",
+          "amount": 27.0
+        }
+      ],
+      "shielded": false
+    },
+    {
+      "searchDocId": 2171055,
+      "docNo": 8306508,
+      "userDocNo": "2025R-023395",
+      "docType": "APPOINTMENT",
+      "docTypeCode": "APPOINT",
+      "docDate": "2025-09-10",
+      "docRecordedDateOnly": null,
+      "docRecordedTimeOnly": null,
+      "docRecordedDateTime": [
+        "2025-09-15",
+        "08:04:06.7733333"
+      ],
+      "refNo": "",
+      "bookPage": null,
+      "book": null,
+      "page": null,
+      "consideration": 0.0,
+      "legalSummary": "Sub: HIGH RIDGE ACRES  10-43A  Lot: 6",
+      "imageExists": true,
+      "docStatus": "A",
+      "partyOne": "CSM FORECLOSURE TRUSTEE CORP ",
+      "partyOneType": "GRANTEE",
+      "partyTwo": "NEELY LINDA ",
+      "partyTwoType": "GRANTOR",
+      "pages": 2,
+      "assocDocSummary": "2016R-036583 ",
+      "notes": null,
+      "associatedDocumentList": [
+        {
+          "id": 2111244,
+          "searchDocId": 1716027,
+          "name": "2016R-036583",
+          "imageExists": true,
+          "numberOfPages": 15,
+          "inRepository": true,
+          "documentType": "DEED OF TRUST"
+        }
+      ],
+      "legalList": [
+        {
+          "id": 1691057,
+          "legalType": "S",
+          "description": "HIGH RIDGE ACRES  10-43A L:6   ",
+          "notes": "BOOK: 0010 PAGE: 0043A\r\nCABINET: A SLIDE: 230",
+          "portion": null,
+          "propertyNotes": null,
+          "gisParcelStringUrl": null
+        }
+      ],
+      "lawPartyList": [
+        {
+          "id": 5978773,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "NEELY LINDA ",
+          "middleName": null,
+          "fullName": "NEELY LINDA "
+        },
+        {
+          "id": 5978772,
+          "partyTypeId": 2,
+          "partyTypeDescription": "GRANTEE",
+          "name": null,
+          "additionalName": "CSM FORECLOSURE TRUSTEE CORP ",
+          "middleName": null,
+          "fullName": "CSM FORECLOSURE TRUSTEE CORP "
+        },
+        {
+          "id": 5978774,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "NEWREZ LLC ",
+          "middleName": null,
+          "fullName": "NEWREZ LLC "
+        },
+        {
+          "id": 5978775,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "SHELLPOINT MORTGAGE SERVICING ",
+          "middleName": null,
+          "fullName": "SHELLPOINT MORTGAGE SERVICING "
+        }
+      ],
+      "returnTo": {
+        "id": 114118,
+        "address1": "15W030 NORTH FRONTAGE ROAD",
+        "address2": null,
+        "address3": "BURR RIDGE, IL  60527",
+        "fullAddress": "CODILIS, MOODY AND CIRCELLI, P.C.",
+        "name": "CODILIS, MOODY AND CIRCELLI, P.C."
+      },
+      "feeList": [
+        {
+          "id": 6,
+          "name": "RECORDING FEE",
+          "amount": 27.0
+        }
+      ],
+      "shielded": false
+    }
+  ],
+  "auth_token": "Bearer eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkEyNTZDQkMtSFM1MTIiLCJraWQiOiI2MkUxMDZBNkRERkM2MUZDQUVENDMwQUI3NTUyRDM1OEQ0OTgyODRBIiwidHlwIjoiYXQrand0IiwiY3R5IjoiSldUIn0.3XkOy-U1xCfBMssIvTIJYSBXxFYgkLNn_tRLBmNccnQdl0gfYSoOI24ewWXWkX23VrTaN29k7YITdSCUUexjn82Ixbd_ctm_xMa2h32rQmOVGKPUA4sRAZWsPZq_EtccWxer3E5teYXmotbFdEeqjNbYD1qxl_sLrwEBQAGXmbd439j91fW8g79WyeNAp53yAZS-nOuu9c9S1imurEINT-EbDF2gm9wpwoz1-ccPnIsPMc4b1-Jtpvvt8Wo15lilVz-FJtPOxC31xLWyLKNnJsy_NPX_0ZMWCQVSE-ws4hk7yW1KALSy_pVur9R1Dxba3cSojU-ceG2vqRnYI00oHw.ikW_byVyDnBcU1wZiJXUjg.omUPzl7yffZ7oQGFHRvTL2JPyVaVAiFn0_OC7sGR3xPeptVklBlOQlZLCGwFg5J37Wjx-0EH-U0E06CYJH8D6OivMv_FN3NlpRzqP4wf48LkF3oK_Pbz66EIWtDFekyb_P4h8rNkVYun_GLDTAxwUGE8dz6Mn7zzGP4ais28NBzsIdYmejczZgSuxWBkL3Jg5a0MB-JAKsdX-bICdg20B3_h53jqkun_Lnmic3CU3n-B8dpE1R7p1QSi71clwakilY16U1GHpAWdp8CeNyD0x55yw3yf9o1p_WyKEOHxNlQIn0dvLLQyct6xrcpidJ-y26uTNtkAs217DoAjHgzIUF-3oikqhSpy_Kt_uKpkRqKFF2KhqtUkayuekBX0zZUrOtelSemuHxLGQBj8jePn9SicKUXsM8p-P0rTBR31CbLnhV-Vg7zYn5DDnnIQau3WX7QTvnI28c9WmdsHq41gtRR8K_AVduV_o-_npGjGD9U69M2cPVZkvwEvaus3jAiFCRtgjwMRQac-7IDJW1jr8UvpcAaBm-STCMXXUA7L0vf_IAClnXbmeiJ3oiiU555uUi8PxaRvKNHx8lq6Bn8u4xGTRril5jQPSUpet1OGSCzOCzAZjDGYVBoqJ-NKYKXZMdIYLYeq0Z2YA_qtWFAyI-UEJ110gBkTCGPx7ieZ4duxH4e3Ut7Ks0NkvjBm5tHWcn-BMAIazZQocKZi7Rr-ypjODo2M5i2NvQxecmigU4FKlr_B4qIo_gz09nYgaky1Rls5xbxowoR-ocfOC9nXZhA7ckqzxRkLn9naP_ddJ3MgC5MXLpeGp-5aJvVe2dR-TaFxFFSb7F3nqKVITHtCrbaoQP40N5fYo-D5MyQN4GsQvKPk7cNKURbpAxKIszH7jX-42f8QV4403wsCrvr7MZBhDUb59qlMQsBE1k4qQ4iSvK18FuDH4zQ23BPlH36lZpAYs6uHiBL897Fpm6r8h3dDambn2NBootrwg-A9jILasXFJ9TA18TlYWxlymOmI__UgRUgRfEElNOAv2Mh6bdnzM8FtKK8qIHLFUUXkv6vjYE_aHamfO-3NbCsCkseQLULEsmzWHZlFefeDpkE20tI2XaoLheGpqppsyVLk0tADzs0EqvT5JJ2Wyk-AU8mN358HRvL_JVsKndAPwbGPKkOBGj4-pjFBnt1zlmN4xxFVfRQbUrUWlF3HgTWjD_a05m0nBvNgatd2cxqxQ2AMId84cZg1V5M5ZFc3jOJGONAsbcS-ZvP53j77Bvn-EwvraMAv-f1QF2zHqJkQaOusA1Hy0eJrYTwaLh_Z07LxqI_MGZoWR2TWbK29FN0cLH3V.0oiL8pC2EryAVPKGgai1rJEv0L4gpc3zIzEqGS-TT84"
 }
