@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": "st-charles-county-1",
+    "Doc Number": "2025R-040789",
+    "Party1": "WESTERN PROGRESSIVE-MISSOURI INC  (GRANTEE)",
+    "Party2": "HSBC BANK USA  (GRANTOR)",
+    "Party3": "",
+    "Party4": "",
+    "Party5": "",
+    "Party6": "",
+    "Book & Page": null,
+    "Doc Date": "07/01/2025",
+    "Recorded Date": "09/16/2025",
+    "Doc Type": "APPOINTMENT OF SUCCESSOR TRUSTEE (SUCTR)",
+    "Assoc Doc": "20060310000203090 ",
+    "Legal Summary": "Sub: PENNIAL PARK PLAT 3  Lot: 300",
+    "Consideration": "$0.0",
+    "Pages": 3
+  },
+  {
+    "id": "st-charles-county-3",
+    "Doc Number": "2025R-040668",
+    "Party1": "SERVBANK  (GRANTOR)",
+    "Party2": "MILLSAP & SINGER PC (GRANTEE)",
+    "Party3": "",
+    "Party4": "",
+    "Party5": "",
+    "Party6": "",
+    "Book & Page": null,
+    "Doc Date": "09/11/2025",
+    "Recorded Date": "09/16/2025",
+    "Doc Type": "APPOINTMENT OF SUCCESSOR TRUSTEE (SUCTR)",
+    "Assoc Doc": "20180710000388800 ",
+    "Legal Summary": "Sub: GLENHURST PTL AMENDED PLAT 1 2 & 3  Lot: B121",
+    "Consideration": "$0.0",
+    "Pages": 3
+  }
+]
