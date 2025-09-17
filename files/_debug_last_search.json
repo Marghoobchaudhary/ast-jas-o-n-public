@@ -1,4 +1,1709 @@
 {
-  "docs_list": [],
-  "auth_token": "Bearer eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkEyNTZDQkMtSFM1MTIiLCJraWQiOiI2MkUxMDZBNkRERkM2MUZDQUVENDMwQUI3NTUyRDM1OEQ0OTgyODRBIiwidHlwIjoiYXQrand0IiwiY3R5IjoiSldUIn0.cmNOf1q1qCRG2JBdorBiEJhibE_t2Iso-QIUPoRtcm2BtO51V9fYVrmCjayb2Y3l4AmsH8VuBu8HSRXcpFF4ImZwe8GWNJJSScL0ntvsPQVHXd2vZD3ePjKcz5LvjG6d2hAud-zsDNJQ58j99qVofLW9oso1U4b2kSZLRVC5COQlPazTYEz8qCnKEXir7EoqMVODEvGQGrPhIN7bF8xFlX_04t_4PQDqBJIRGKrueKTkcx3RXX-ZSDvieOIB_yGoQ-YCl2unvSRRi0zu0ACrcBgpg6yJ8nzKJfZzXno2DbsulBxFDA0DqHxnMuONc2IFo-FDGxxKgj5Jky4xESDLHw.B8-1RXYeoSNHZ-fELgKiEg.UyVKUBHVxVaEqlJpKRMJb-JCQeABCTC_Y-JtzdcVoSKHciB4GtCDt9-NZ5qmBxyYRv0MaY0uZOJq6YO3LxBzkx8Z5zcbUc5uTBqHs1VoWmUVkV-yDRnZhfJeZyzD5cu683Ro-fgvVQIcjhnvOcBA1Kj7kH-zf4VQGfI3Hc2eXJo56_inC2W5C9IqwzUn0vpg-S1L1YAwrSIIgYyl3el56eayeTOEXQbpEJ53w-IV8dcQewVqENuKHbGkcxSR-OdJHiw0xfjvI88eV7O41kQrBujcDEzC78iFw1EXvFKwUCVIL8sVcS7CErJ0epSmi39bAz1S0IeHUvaKggIv7ddZYt1BCGAx1NF99KwJwkmhRwxC1E4lG9Dwmbpdcz9ZVR8E8dhOjb5nwBPVTAIYEQMVqyWnun1iTdFbsbJ1HIuPIbRizJ3ife6FrrfCE7jtqOSEuXduwtdOzmcYluZYAadOorP8pGi2_pnqxnKzUn7T5zf5PQvUmlS1-aTAWsQDYP6UyyWbFA1C595WKstk9gnQtuO2htGQrDsTD0s0EV8fJZoTpymb0Tln9ZbkXhXzf94rkTgwfEGss6x4FLA2FdfLNmIlWZ5wawB1sAk0HISzsUIDnJ0Y7hV-SgZmWpErq2PxrWjrQX4IAW4igA4BzFmGRIeix7bgGnNwvw0gi7sUsxoXX4EJWQA2YMD6EfRGXf8IhFL9Wo0aousz1B-UNETXB-z-fUEHvZ2peLiJDOC1NHJufQbT4PW7nK4EST6vJeAJoPgVCQuEnzgly04kgnHxawLYI3uboCwFpChf1FNVDhNCmSv-2FhKUtbVWzTKeOlD0b1WTf0MpMsj9F2Mats03VCBgrMRfmGGBK8cJfByhhMlESauknfx3DMnWi0flw2k1XfEa-6wUPsd9INhxfVAifhMjIE72Nwn2AZpj0FB5K1514aVH6a9kUWRWPW7ygekQSNnKvvg6p59bQnIWq4PifkdjTceP8DuMGPmZKU28Q8Z2M9z9Gpi0jrLcbScriF86pMtK5kbZPLBXbUb1qGAaleyFLfLi_82rzrSfOdIs7A7RnhLh5s1s-qGeDy_HhIK7zHPow5_pnrS4tD25JihVURSFds2FYRRdZxchTPYAIXyAfS8Jm16Dbt9GQYZX-18oLW1UeOEYJFaM7WQtsgWroWOt3rEK0WXZVmGwM8lzZu4A4wjMjrYeyGO3ahblM6Cv59Xl5VqPLnD9qv0H5FRHgCLXzdEa97JvKZnfSULZV9eQNE5cTSTnH1EOhR_38ZAsUKWprOvCFh0olSP8GdZq6mQr9Q0IfopT28H-uBLJYhHzRj_8TdgDlHqZCqR2tuW.z4aLj7wdVhykgpWv4MwfOWxIIuZjL_QvWGcen6hrrSU"
+  "docs_list": [
+    {
+      "searchDocId": 2171446,
+      "docNo": 8306947,
+      "userDocNo": "2025R-023690",
+      "docType": "APPOINTMENT",
+      "docTypeCode": "APPOINT",
+      "docDate": "2025-09-16",
+      "docRecordedDateOnly": null,
+      "docRecordedTimeOnly": null,
+      "docRecordedDateTime": [
+        "2025-09-17",
+        "08:07:17.39"
+      ],
+      "refNo": "",
+      "bookPage": null,
+      "book": null,
+      "page": null,
+      "consideration": 0.0,
+      "legalSummary": "S: 6 T: 42 R: 6",
+      "imageExists": true,
+      "docStatus": "A",
+      "partyOne": "SHELLPOINT MORTGAGE SERVICING ",
+      "partyOneType": "GRANTOR",
+      "partyTwo": "SAYER LAW GROUP PC ",
+      "partyTwoType": "GRANTEE",
+      "pages": 2,
+      "assocDocSummary": "2022R-024646 ",
+      "notes": null,
+      "associatedDocumentList": [
+        {
+          "id": 8158182,
+          "searchDocId": 2032700,
+          "name": "2022R-024646",
+          "imageExists": true,
+          "numberOfPages": 18,
+          "inRepository": true,
+          "documentType": "DEED OF TRUST"
+        }
+      ],
+      "legalList": [
+        {
+          "id": 576452,
+          "legalType": "T",
+          "description": "S: 6 T: 42 R: 6",
+          "notes": null,
+          "portion": null,
+          "propertyNotes": null,
+          "gisParcelStringUrl": null
+        }
+      ],
+      "lawPartyList": [
+        {
+          "id": 5980531,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "MICHALIK ROBERT A ",
+          "middleName": null,
+          "fullName": "MICHALIK ROBERT A "
+        },
+        {
+          "id": 5980532,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "NEWREZ LLC ",
+          "middleName": null,
+          "fullName": "NEWREZ LLC "
+        },
+        {
+          "id": 5980534,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "SHELLPOINT MORTGAGE SERVICING ",
+          "middleName": null,
+          "fullName": "SHELLPOINT MORTGAGE SERVICING "
+        },
+        {
+          "id": 5980533,
+          "partyTypeId": 2,
+          "partyTypeDescription": "GRANTEE",
+          "name": null,
+          "additionalName": "SAYER LAW GROUP PC ",
+          "middleName": null,
+          "fullName": "SAYER LAW GROUP PC "
+        }
+      ],
+      "returnTo": {
+        "id": 151644,
+        "address1": "925 E. 4TH STREET",
+        "address2": null,
+        "address3": "WATERLOO, IA  50703",
+        "fullAddress": "THE SAYER LAW GROUP, P.C.",
+        "name": "THE SAYER LAW GROUP, P.C."
+      },
+      "feeList": [
+        {
+          "id": 6,
+          "name": "RECORDING FEE",
+          "amount": 27.0
+        }
+      ],
+      "shielded": false
+    },
+    {
+      "searchDocId": 2171446,
+      "docNo": 8306947,
+      "userDocNo": "2025R-023690",
+      "docType": "APPOINTMENT",
+      "docTypeCode": "APPOINT",
+      "docDate": "2025-09-16",
+      "docRecordedDateOnly": null,
+      "docRecordedTimeOnly": null,
+      "docRecordedDateTime": [
+        "2025-09-17",
+        "08:07:17.39"
+      ],
+      "refNo": "",
+      "bookPage": null,
+      "book": null,
+      "page": null,
+      "consideration": 0.0,
+      "legalSummary": "S: 6 T: 42 R: 6",
+      "imageExists": true,
+      "docStatus": "A",
+      "partyOne": "SAYER LAW GROUP PC ",
+      "partyOneType": "GRANTEE",
+      "partyTwo": "MICHALIK ROBERT A ",
+      "partyTwoType": "GRANTOR",
+      "pages": 2,
+      "assocDocSummary": "2022R-024646 ",
+      "notes": null,
+      "associatedDocumentList": [
+        {
+          "id": 8158182,
+          "searchDocId": 2032700,
+          "name": "2022R-024646",
+          "imageExists": true,
+          "numberOfPages": 18,
+          "inRepository": true,
+          "documentType": "DEED OF TRUST"
+        }
+      ],
+      "legalList": [
+        {
+          "id": 576452,
+          "legalType": "T",
+          "description": "S: 6 T: 42 R: 6",
+          "notes": null,
+          "portion": null,
+          "propertyNotes": null,
+          "gisParcelStringUrl": null
+        }
+      ],
+      "lawPartyList": [
+        {
+          "id": 5980531,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "MICHALIK ROBERT A ",
+          "middleName": null,
+          "fullName": "MICHALIK ROBERT A "
+        },
+        {
+          "id": 5980532,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "NEWREZ LLC ",
+          "middleName": null,
+          "fullName": "NEWREZ LLC "
+        },
+        {
+          "id": 5980534,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "SHELLPOINT MORTGAGE SERVICING ",
+          "middleName": null,
+          "fullName": "SHELLPOINT MORTGAGE SERVICING "
+        },
+        {
+          "id": 5980533,
+          "partyTypeId": 2,
+          "partyTypeDescription": "GRANTEE",
+          "name": null,
+          "additionalName": "SAYER LAW GROUP PC ",
+          "middleName": null,
+          "fullName": "SAYER LAW GROUP PC "
+        }
+      ],
+      "returnTo": {
+        "id": 151644,
+        "address1": "925 E. 4TH STREET",
+        "address2": null,
+        "address3": "WATERLOO, IA  50703",
+        "fullAddress": "THE SAYER LAW GROUP, P.C.",
+        "name": "THE SAYER LAW GROUP, P.C."
+      },
+      "feeList": [
+        {
+          "id": 6,
+          "name": "RECORDING FEE",
+          "amount": 27.0
+        }
+      ],
+      "shielded": false
+    },
+    {
+      "searchDocId": 2171446,
+      "docNo": 8306947,
+      "userDocNo": "2025R-023690",
+      "docType": "APPOINTMENT",
+      "docTypeCode": "APPOINT",
+      "docDate": "2025-09-16",
+      "docRecordedDateOnly": null,
+      "docRecordedTimeOnly": null,
+      "docRecordedDateTime": [
+        "2025-09-17",
+        "08:07:17.39"
+      ],
+      "refNo": "",
+      "bookPage": null,
+      "book": null,
+      "page": null,
+      "consideration": 0.0,
+      "legalSummary": "S: 6 T: 42 R: 6",
+      "imageExists": true,
+      "docStatus": "A",
+      "partyOne": "NEWREZ LLC ",
+      "partyOneType": "GRANTOR",
+      "partyTwo": "SAYER LAW GROUP PC ",
+      "partyTwoType": "GRANTEE",
+      "pages": 2,
+      "assocDocSummary": "2022R-024646 ",
+      "notes": null,
+      "associatedDocumentList": [
+        {
+          "id": 8158182,
+          "searchDocId": 2032700,
+          "name": "2022R-024646",
+          "imageExists": true,
+          "numberOfPages": 18,
+          "inRepository": true,
+          "documentType": "DEED OF TRUST"
+        }
+      ],
+      "legalList": [
+        {
+          "id": 576452,
+          "legalType": "T",
+          "description": "S: 6 T: 42 R: 6",
+          "notes": null,
+          "portion": null,
+          "propertyNotes": null,
+          "gisParcelStringUrl": null
+        }
+      ],
+      "lawPartyList": [
+        {
+          "id": 5980531,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "MICHALIK ROBERT A ",
+          "middleName": null,
+          "fullName": "MICHALIK ROBERT A "
+        },
+        {
+          "id": 5980532,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "NEWREZ LLC ",
+          "middleName": null,
+          "fullName": "NEWREZ LLC "
+        },
+        {
+          "id": 5980534,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "SHELLPOINT MORTGAGE SERVICING ",
+          "middleName": null,
+          "fullName": "SHELLPOINT MORTGAGE SERVICING "
+        },
+        {
+          "id": 5980533,
+          "partyTypeId": 2,
+          "partyTypeDescription": "GRANTEE",
+          "name": null,
+          "additionalName": "SAYER LAW GROUP PC ",
+          "middleName": null,
+          "fullName": "SAYER LAW GROUP PC "
+        }
+      ],
+      "returnTo": {
+        "id": 151644,
+        "address1": "925 E. 4TH STREET",
+        "address2": null,
+        "address3": "WATERLOO, IA  50703",
+        "fullAddress": "THE SAYER LAW GROUP, P.C.",
+        "name": "THE SAYER LAW GROUP, P.C."
+      },
+      "feeList": [
+        {
+          "id": 6,
+          "name": "RECORDING FEE",
+          "amount": 27.0
+        }
+      ],
+      "shielded": false
+    },
+    {
+      "searchDocId": 2171446,
+      "docNo": 8306947,
+      "userDocNo": "2025R-023690",
+      "docType": "APPOINTMENT",
+      "docTypeCode": "APPOINT",
+      "docDate": "2025-09-16",
+      "docRecordedDateOnly": null,
+      "docRecordedTimeOnly": null,
+      "docRecordedDateTime": [
+        "2025-09-17",
+        "08:07:17.39"
+      ],
+      "refNo": "",
+      "bookPage": null,
+      "book": null,
+      "page": null,
+      "consideration": 0.0,
+      "legalSummary": "S: 6 T: 42 R: 6",
+      "imageExists": true,
+      "docStatus": "A",
+      "partyOne": "MICHALIK ROBERT A ",
+      "partyOneType": "GRANTOR",
+      "partyTwo": "SAYER LAW GROUP PC ",
+      "partyTwoType": "GRANTEE",
+      "pages": 2,
+      "assocDocSummary": "2022R-024646 ",
+      "notes": null,
+      "associatedDocumentList": [
+        {
+          "id": 8158182,
+          "searchDocId": 2032700,
+          "name": "2022R-024646",
+          "imageExists": true,
+          "numberOfPages": 18,
+          "inRepository": true,
+          "documentType": "DEED OF TRUST"
+        }
+      ],
+      "legalList": [
+        {
+          "id": 576452,
+          "legalType": "T",
+          "description": "S: 6 T: 42 R: 6",
+          "notes": null,
+          "portion": null,
+          "propertyNotes": null,
+          "gisParcelStringUrl": null
+        }
+      ],
+      "lawPartyList": [
+        {
+          "id": 5980531,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "MICHALIK ROBERT A ",
+          "middleName": null,
+          "fullName": "MICHALIK ROBERT A "
+        },
+        {
+          "id": 5980532,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "NEWREZ LLC ",
+          "middleName": null,
+          "fullName": "NEWREZ LLC "
+        },
+        {
+          "id": 5980534,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "SHELLPOINT MORTGAGE SERVICING ",
+          "middleName": null,
+          "fullName": "SHELLPOINT MORTGAGE SERVICING "
+        },
+        {
+          "id": 5980533,
+          "partyTypeId": 2,
+          "partyTypeDescription": "GRANTEE",
+          "name": null,
+          "additionalName": "SAYER LAW GROUP PC ",
+          "middleName": null,
+          "fullName": "SAYER LAW GROUP PC "
+        }
+      ],
+      "returnTo": {
+        "id": 151644,
+        "address1": "925 E. 4TH STREET",
+        "address2": null,
+        "address3": "WATERLOO, IA  50703",
+        "fullAddress": "THE SAYER LAW GROUP, P.C.",
+        "name": "THE SAYER LAW GROUP, P.C."
+      },
+      "feeList": [
+        {
+          "id": 6,
+          "name": "RECORDING FEE",
+          "amount": 27.0
+        }
+      ],
+      "shielded": false
+    },
+    {
+      "searchDocId": 2171308,
+      "docNo": 8306784,
+      "userDocNo": "2025R-023580",
+      "docType": "APPOINTMENT",
+      "docTypeCode": "APPOINT",
+      "docDate": "2025-09-08",
+      "docRecordedDateOnly": null,
+      "docRecordedTimeOnly": null,
+      "docRecordedDateTime": [
+        "2025-09-16",
+        "10:05:02.26"
+      ],
+      "refNo": "",
+      "bookPage": null,
+      "book": null,
+      "page": null,
+      "consideration": 0.0,
+      "legalSummary": "Sub: VILLAGE OF JEFFERSON 3  62-4  Lot: 374",
+      "imageExists": true,
+      "docStatus": "A",
+      "partyOne": "US SECRETARY OF AGRICULTURE ",
+      "partyOneType": "GRANTOR",
+      "partyTwo": "SOUTHLAW PC ",
+      "partyTwoType": "GRANTEE",
+      "pages": 2,
+      "assocDocSummary": "2015R-004618 ",
+      "notes": null,
+      "associatedDocumentList": [
+        {
+          "id": 1982851,
+          "searchDocId": 1620579,
+          "name": "2015R-004618",
+          "imageExists": true,
+          "numberOfPages": 6,
+          "inRepository": true,
+          "documentType": "DEED OF TRUST"
+        }
+      ],
+      "legalList": [
+        {
+          "id": 1691398,
+          "legalType": "S",
+          "description": "VILLAGE OF JEFFERSON 3  62-4 L:374   ",
+          "notes": "BOOK: 0062 PAGE: 0004\r\nCABINET: C SLIDE: 247",
+          "portion": null,
+          "propertyNotes": null,
+          "gisParcelStringUrl": null
+        }
+      ],
+      "lawPartyList": [
+        {
+          "id": 5979604,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "STAHL MICHAEL ",
+          "middleName": null,
+          "fullName": "STAHL MICHAEL "
+        },
+        {
+          "id": 5979670,
+          "partyTypeId": 2,
+          "partyTypeDescription": "GRANTEE",
+          "name": null,
+          "additionalName": "SOUTHLAW PC ",
+          "middleName": null,
+          "fullName": "SOUTHLAW PC "
+        },
+        {
+          "id": 5979671,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "US SECRETARY OF AGRICULTURE ",
+          "middleName": null,
+          "fullName": "US SECRETARY OF AGRICULTURE "
+        }
+      ],
+      "returnTo": {
+        "id": 22055,
+        "address1": "13160 FOSTER AVE. SUITE 100",
+        "address2": null,
+        "address3": "OVERLAND PARK, KS  66213",
+        "fullAddress": "SOUTHLAW P.C.",
+        "name": "SOUTHLAW P.C."
+      },
+      "feeList": [
+        {
+          "id": 6,
+          "name": "RECORDING FEE",
+          "amount": 27.0
+        }
+      ],
+      "shielded": false
+    },
+    {
+      "searchDocId": 2171308,
+      "docNo": 8306784,
+      "userDocNo": "2025R-023580",
+      "docType": "APPOINTMENT",
+      "docTypeCode": "APPOINT",
+      "docDate": "2025-09-08",
+      "docRecordedDateOnly": null,
+      "docRecordedTimeOnly": null,
+      "docRecordedDateTime": [
+        "2025-09-16",
+        "10:05:02.26"
+      ],
+      "refNo": "",
+      "bookPage": null,
+      "book": null,
+      "page": null,
+      "consideration": 0.0,
+      "legalSummary": "Sub: VILLAGE OF JEFFERSON 3  62-4  Lot: 374",
+      "imageExists": true,
+      "docStatus": "A",
+      "partyOne": "SOUTHLAW PC ",
+      "partyOneType": "GRANTEE",
+      "partyTwo": "STAHL MICHAEL ",
+      "partyTwoType": "GRANTOR",
+      "pages": 2,
+      "assocDocSummary": "2015R-004618 ",
+      "notes": null,
+      "associatedDocumentList": [
+        {
+          "id": 1982851,
+          "searchDocId": 1620579,
+          "name": "2015R-004618",
+          "imageExists": true,
+          "numberOfPages": 6,
+          "inRepository": true,
+          "documentType": "DEED OF TRUST"
+        }
+      ],
+      "legalList": [
+        {
+          "id": 1691398,
+          "legalType": "S",
+          "description": "VILLAGE OF JEFFERSON 3  62-4 L:374   ",
+          "notes": "BOOK: 0062 PAGE: 0004\r\nCABINET: C SLIDE: 247",
+          "portion": null,
+          "propertyNotes": null,
+          "gisParcelStringUrl": null
+        }
+      ],
+      "lawPartyList": [
+        {
+          "id": 5979604,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "STAHL MICHAEL ",
+          "middleName": null,
+          "fullName": "STAHL MICHAEL "
+        },
+        {
+          "id": 5979670,
+          "partyTypeId": 2,
+          "partyTypeDescription": "GRANTEE",
+          "name": null,
+          "additionalName": "SOUTHLAW PC ",
+          "middleName": null,
+          "fullName": "SOUTHLAW PC "
+        },
+        {
+          "id": 5979671,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "US SECRETARY OF AGRICULTURE ",
+          "middleName": null,
+          "fullName": "US SECRETARY OF AGRICULTURE "
+        }
+      ],
+      "returnTo": {
+        "id": 22055,
+        "address1": "13160 FOSTER AVE. SUITE 100",
+        "address2": null,
+        "address3": "OVERLAND PARK, KS  66213",
+        "fullAddress": "SOUTHLAW P.C.",
+        "name": "SOUTHLAW P.C."
+      },
+      "feeList": [
+        {
+          "id": 6,
+          "name": "RECORDING FEE",
+          "amount": 27.0
+        }
+      ],
+      "shielded": false
+    },
+    {
+      "searchDocId": 2171308,
+      "docNo": 8306784,
+      "userDocNo": "2025R-023580",
+      "docType": "APPOINTMENT",
+      "docTypeCode": "APPOINT",
+      "docDate": "2025-09-08",
+      "docRecordedDateOnly": null,
+      "docRecordedTimeOnly": null,
+      "docRecordedDateTime": [
+        "2025-09-16",
+        "10:05:02.26"
+      ],
+      "refNo": "",
+      "bookPage": null,
+      "book": null,
+      "page": null,
+      "consideration": 0.0,
+      "legalSummary": "Sub: VILLAGE OF JEFFERSON 3  62-4  Lot: 374",
+      "imageExists": true,
+      "docStatus": "A",
+      "partyOne": "STAHL MICHAEL ",
+      "partyOneType": "GRANTOR",
+      "partyTwo": "SOUTHLAW PC ",
+      "partyTwoType": "GRANTEE",
+      "pages": 2,
+      "assocDocSummary": "2015R-004618 ",
+      "notes": null,
+      "associatedDocumentList": [
+        {
+          "id": 1982851,
+          "searchDocId": 1620579,
+          "name": "2015R-004618",
+          "imageExists": true,
+          "numberOfPages": 6,
+          "inRepository": true,
+          "documentType": "DEED OF TRUST"
+        }
+      ],
+      "legalList": [
+        {
+          "id": 1691398,
+          "legalType": "S",
+          "description": "VILLAGE OF JEFFERSON 3  62-4 L:374   ",
+          "notes": "BOOK: 0062 PAGE: 0004\r\nCABINET: C SLIDE: 247",
+          "portion": null,
+          "propertyNotes": null,
+          "gisParcelStringUrl": null
+        }
+      ],
+      "lawPartyList": [
+        {
+          "id": 5979604,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "STAHL MICHAEL ",
+          "middleName": null,
+          "fullName": "STAHL MICHAEL "
+        },
+        {
+          "id": 5979670,
+          "partyTypeId": 2,
+          "partyTypeDescription": "GRANTEE",
+          "name": null,
+          "additionalName": "SOUTHLAW PC ",
+          "middleName": null,
+          "fullName": "SOUTHLAW PC "
+        },
+        {
+          "id": 5979671,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "US SECRETARY OF AGRICULTURE ",
+          "middleName": null,
+          "fullName": "US SECRETARY OF AGRICULTURE "
+        }
+      ],
+      "returnTo": {
+        "id": 22055,
+        "address1": "13160 FOSTER AVE. SUITE 100",
+        "address2": null,
+        "address3": "OVERLAND PARK, KS  66213",
+        "fullAddress": "SOUTHLAW P.C.",
+        "name": "SOUTHLAW P.C."
+      },
+      "feeList": [
+        {
+          "id": 6,
+          "name": "RECORDING FEE",
+          "amount": 27.0
+        }
+      ],
+      "shielded": false
+    },
+    {
+      "searchDocId": 2171264,
+      "docNo": 8306732,
+      "userDocNo": "2025R-023549",
+      "docType": "APPOINTMENT",
+      "docTypeCode": "APPOINT",
+      "docDate": "2025-09-12",
+      "docRecordedDateOnly": null,
+      "docRecordedTimeOnly": null,
+      "docRecordedDateTime": [
+        "2025-09-16",
+        "08:02:55.4766667"
+      ],
+      "refNo": "",
+      "bookPage": null,
+      "book": null,
+      "page": null,
+      "consideration": 0.0,
+      "legalSummary": "Sub: PARKTON 1  64-22  Lot: 139",
+      "imageExists": true,
+      "docStatus": "A",
+      "partyOne": "NESTOR SOLUTIONS OF MISSOURI LLC ",
+      "partyOneType": "GRANTEE",
+      "partyTwo": "ALBRECHT SCOTT A ",
+      "partyTwoType": "GRANTOR",
+      "pages": 2,
+      "assocDocSummary": "2017R-010508 ",
+      "notes": null,
+      "associatedDocumentList": [
+        {
+          "id": 2136973,
+          "searchDocId": 1737134,
+          "name": "2017R-010508",
+          "imageExists": true,
+          "numberOfPages": 18,
+          "inRepository": true,
+          "documentType": "DEED OF TRUST"
+        }
+      ],
+      "legalList": [
+        {
+          "id": 1691291,
+          "legalType": "S",
+          "description": "PARKTON 1  64-22 L:139   ",
+          "notes": "BOOK: 0064 PAGE: 0022\r\nCABINET: C SLIDE: 286\r\n",
+          "portion": null,
+          "propertyNotes": null,
+          "gisParcelStringUrl": null
+        }
+      ],
+      "lawPartyList": [
+        {
+          "id": 5979387,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "ALBRECHT SCOTT A ",
+          "middleName": null,
+          "fullName": "ALBRECHT SCOTT A "
+        },
+        {
+          "id": 5979388,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "FREEDOM MORTGAGE CORP ",
+          "middleName": null,
+          "fullName": "FREEDOM MORTGAGE CORP "
+        },
+        {
+          "id": 5979389,
+          "partyTypeId": 2,
+          "partyTypeDescription": "GRANTEE",
+          "name": null,
+          "additionalName": "NESTOR SOLUTIONS OF MISSOURI LLC ",
+          "middleName": null,
+          "fullName": "NESTOR SOLUTIONS OF MISSOURI LLC "
+        }
+      ],
+      "returnTo": {
+        "id": 158889,
+        "address1": "214 5TH STREET, STE 205",
+        "address2": null,
+        "address3": "HUNTINGTON BEACH, CA  92648",
+        "fullAddress": "NESTOR SOLUTIONS, LLC",
+        "name": "NESTOR SOLUTIONS, LLC"
+      },
+      "feeList": [
+        {
+          "id": 6,
+          "name": "RECORDING FEE",
+          "amount": 27.0
+        }
+      ],
+      "shielded": false
+    },
+    {
+      "searchDocId": 2171264,
+      "docNo": 8306732,
+      "userDocNo": "2025R-023549",
+      "docType": "APPOINTMENT",
+      "docTypeCode": "APPOINT",
+      "docDate": "2025-09-12",
+      "docRecordedDateOnly": null,
+      "docRecordedTimeOnly": null,
+      "docRecordedDateTime": [
+        "2025-09-16",
+        "08:02:55.4766667"
+      ],
+      "refNo": "",
+      "bookPage": null,
+      "book": null,
+      "page": null,
+      "consideration": 0.0,
+      "legalSummary": "Sub: PARKTON 1  64-22  Lot: 139",
+      "imageExists": true,
+      "docStatus": "A",
+      "partyOne": "FREEDOM MORTGAGE CORP ",
+      "partyOneType": "GRANTOR",
+      "partyTwo": "NESTOR SOLUTIONS OF MISSOURI LLC ",
+      "partyTwoType": "GRANTEE",
+      "pages": 2,
+      "assocDocSummary": "2017R-010508 ",
+      "notes": null,
+      "associatedDocumentList": [
+        {
+          "id": 2136973,
+          "searchDocId": 1737134,
+          "name": "2017R-010508",
+          "imageExists": true,
+          "numberOfPages": 18,
+          "inRepository": true,
+          "documentType": "DEED OF TRUST"
+        }
+      ],
+      "legalList": [
+        {
+          "id": 1691291,
+          "legalType": "S",
+          "description": "PARKTON 1  64-22 L:139   ",
+          "notes": "BOOK: 0064 PAGE: 0022\r\nCABINET: C SLIDE: 286\r\n",
+          "portion": null,
+          "propertyNotes": null,
+          "gisParcelStringUrl": null
+        }
+      ],
+      "lawPartyList": [
+        {
+          "id": 5979387,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "ALBRECHT SCOTT A ",
+          "middleName": null,
+          "fullName": "ALBRECHT SCOTT A "
+        },
+        {
+          "id": 5979388,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "FREEDOM MORTGAGE CORP ",
+          "middleName": null,
+          "fullName": "FREEDOM MORTGAGE CORP "
+        },
+        {
+          "id": 5979389,
+          "partyTypeId": 2,
+          "partyTypeDescription": "GRANTEE",
+          "name": null,
+          "additionalName": "NESTOR SOLUTIONS OF MISSOURI LLC ",
+          "middleName": null,
+          "fullName": "NESTOR SOLUTIONS OF MISSOURI LLC "
+        }
+      ],
+      "returnTo": {
+        "id": 158889,
+        "address1": "214 5TH STREET, STE 205",
+        "address2": null,
+        "address3": "HUNTINGTON BEACH, CA  92648",
+        "fullAddress": "NESTOR SOLUTIONS, LLC",
+        "name": "NESTOR SOLUTIONS, LLC"
+      },
+      "feeList": [
+        {
+          "id": 6,
+          "name": "RECORDING FEE",
+          "amount": 27.0
+        }
+      ],
+      "shielded": false
+    },
+    {
+      "searchDocId": 2171264,
+      "docNo": 8306732,
+      "userDocNo": "2025R-023549",
+      "docType": "APPOINTMENT",
+      "docTypeCode": "APPOINT",
+      "docDate": "2025-09-12",
+      "docRecordedDateOnly": null,
+      "docRecordedTimeOnly": null,
+      "docRecordedDateTime": [
+        "2025-09-16",
+        "08:02:55.4766667"
+      ],
+      "refNo": "",
+      "bookPage": null,
+      "book": null,
+      "page": null,
+      "consideration": 0.0,
+      "legalSummary": "Sub: PARKTON 1  64-22  Lot: 139",
+      "imageExists": true,
+      "docStatus": "A",
+      "partyOne": "ALBRECHT SCOTT A ",
+      "partyOneType": "GRANTOR",
+      "partyTwo": "NESTOR SOLUTIONS OF MISSOURI LLC ",
+      "partyTwoType": "GRANTEE",
+      "pages": 2,
+      "assocDocSummary": "2017R-010508 ",
+      "notes": null,
+      "associatedDocumentList": [
+        {
+          "id": 2136973,
+          "searchDocId": 1737134,
+          "name": "2017R-010508",
+          "imageExists": true,
+          "numberOfPages": 18,
+          "inRepository": true,
+          "documentType": "DEED OF TRUST"
+        }
+      ],
+      "legalList": [
+        {
+          "id": 1691291,
+          "legalType": "S",
+          "description": "PARKTON 1  64-22 L:139   ",
+          "notes": "BOOK: 0064 PAGE: 0022\r\nCABINET: C SLIDE: 286\r\n",
+          "portion": null,
+          "propertyNotes": null,
+          "gisParcelStringUrl": null
+        }
+      ],
+      "lawPartyList": [
+        {
+          "id": 5979387,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "ALBRECHT SCOTT A ",
+          "middleName": null,
+          "fullName": "ALBRECHT SCOTT A "
+        },
+        {
+          "id": 5979388,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "FREEDOM MORTGAGE CORP ",
+          "middleName": null,
+          "fullName": "FREEDOM MORTGAGE CORP "
+        },
+        {
+          "id": 5979389,
+          "partyTypeId": 2,
+          "partyTypeDescription": "GRANTEE",
+          "name": null,
+          "additionalName": "NESTOR SOLUTIONS OF MISSOURI LLC ",
+          "middleName": null,
+          "fullName": "NESTOR SOLUTIONS OF MISSOURI LLC "
+        }
+      ],
+      "returnTo": {
+        "id": 158889,
+        "address1": "214 5TH STREET, STE 205",
+        "address2": null,
+        "address3": "HUNTINGTON BEACH, CA  92648",
+        "fullAddress": "NESTOR SOLUTIONS, LLC",
+        "name": "NESTOR SOLUTIONS, LLC"
+      },
+      "feeList": [
+        {
+          "id": 6,
+          "name": "RECORDING FEE",
+          "amount": 27.0
+        }
+      ],
+      "shielded": false
+    },
+    {
+      "searchDocId": 2171265,
+      "docNo": 8306730,
+      "userDocNo": "2025R-023548",
+      "docType": "APPOINTMENT",
+      "docTypeCode": "APPOINT",
+      "docDate": "2025-09-10",
+      "docRecordedDateOnly": null,
+      "docRecordedTimeOnly": null,
+      "docRecordedDateTime": [
+        "2025-09-16",
+        "08:02:20.88"
+      ],
+      "refNo": "",
+      "bookPage": null,
+      "book": null,
+      "page": null,
+      "consideration": 0.0,
+      "legalSummary": "S: 34 T: 40 R: 5",
+      "imageExists": true,
+      "docStatus": "A",
+      "partyOne": "PHH MORTGAGE CORP ",
+      "partyOneType": "GRANTOR",
+      "partyTwo": "MILLSAP AND SINGER PC",
+      "partyTwoType": "GRANTEE",
+      "pages": 3,
+      "assocDocSummary": "2024R-001474 ",
+      "notes": null,
+      "associatedDocumentList": [
+        {
+          "id": 8227822,
+          "searchDocId": 2096574,
+          "name": "2024R-001474",
+          "imageExists": true,
+          "numberOfPages": 29,
+          "inRepository": true,
+          "documentType": "DEED OF TRUST"
+        }
+      ],
+      "legalList": [
+        {
+          "id": 576383,
+          "legalType": "T",
+          "description": "S: 34 T: 40 R: 5",
+          "notes": null,
+          "portion": null,
+          "propertyNotes": null,
+          "gisParcelStringUrl": null
+        }
+      ],
+      "lawPartyList": [
+        {
+          "id": 5979390,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "GORGES JENNIFER ",
+          "middleName": null,
+          "fullName": "GORGES JENNIFER "
+        },
+        {
+          "id": 5979392,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "PHH MORTGAGE CORP ",
+          "middleName": null,
+          "fullName": "PHH MORTGAGE CORP "
+        },
+        {
+          "id": 5979391,
+          "partyTypeId": 2,
+          "partyTypeDescription": "GRANTEE",
+          "name": null,
+          "additionalName": "MILLSAP AND SINGER PC",
+          "middleName": null,
+          "fullName": "MILLSAP AND SINGER PC"
+        }
+      ],
+      "returnTo": {
+        "id": 79516,
+        "address1": "612 SPIRIT DR",
+        "address2": null,
+        "address3": "ST. LOUIS, MO  63005",
+        "fullAddress": "MILLSAP AND SINGER, P.C.",
+        "name": "MILLSAP AND SINGER, P.C."
+      },
+      "feeList": [
+        {
+          "id": 6,
+          "name": "RECORDING FEE",
+          "amount": 30.0
+        }
+      ],
+      "shielded": false
+    },
+    {
+      "searchDocId": 2171265,
+      "docNo": 8306730,
+      "userDocNo": "2025R-023548",
+      "docType": "APPOINTMENT",
+      "docTypeCode": "APPOINT",
+      "docDate": "2025-09-10",
+      "docRecordedDateOnly": null,
+      "docRecordedTimeOnly": null,
+      "docRecordedDateTime": [
+        "2025-09-16",
+        "08:02:20.88"
+      ],
+      "refNo": "",
+      "bookPage": null,
+      "book": null,
+      "page": null,
+      "consideration": 0.0,
+      "legalSummary": "S: 34 T: 40 R: 5",
+      "imageExists": true,
+      "docStatus": "A",
+      "partyOne": "MILLSAP AND SINGER PC",
+      "partyOneType": "GRANTEE",
+      "partyTwo": "GORGES JENNIFER ",
+      "partyTwoType": "GRANTOR",
+      "pages": 3,
+      "assocDocSummary": "2024R-001474 ",
+      "notes": null,
+      "associatedDocumentList": [
+        {
+          "id": 8227822,
+          "searchDocId": 2096574,
+          "name": "2024R-001474",
+          "imageExists": true,
+          "numberOfPages": 29,
+          "inRepository": true,
+          "documentType": "DEED OF TRUST"
+        }
+      ],
+      "legalList": [
+        {
+          "id": 576383,
+          "legalType": "T",
+          "description": "S: 34 T: 40 R: 5",
+          "notes": null,
+          "portion": null,
+          "propertyNotes": null,
+          "gisParcelStringUrl": null
+        }
+      ],
+      "lawPartyList": [
+        {
+          "id": 5979390,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "GORGES JENNIFER ",
+          "middleName": null,
+          "fullName": "GORGES JENNIFER "
+        },
+        {
+          "id": 5979392,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "PHH MORTGAGE CORP ",
+          "middleName": null,
+          "fullName": "PHH MORTGAGE CORP "
+        },
+        {
+          "id": 5979391,
+          "partyTypeId": 2,
+          "partyTypeDescription": "GRANTEE",
+          "name": null,
+          "additionalName": "MILLSAP AND SINGER PC",
+          "middleName": null,
+          "fullName": "MILLSAP AND SINGER PC"
+        }
+      ],
+      "returnTo": {
+        "id": 79516,
+        "address1": "612 SPIRIT DR",
+        "address2": null,
+        "address3": "ST. LOUIS, MO  63005",
+        "fullAddress": "MILLSAP AND SINGER, P.C.",
+        "name": "MILLSAP AND SINGER, P.C."
+      },
+      "feeList": [
+        {
+          "id": 6,
+          "name": "RECORDING FEE",
+          "amount": 30.0
+        }
+      ],
+      "shielded": false
+    },
+    {
+      "searchDocId": 2171265,
+      "docNo": 8306730,
+      "userDocNo": "2025R-023548",
+      "docType": "APPOINTMENT",
+      "docTypeCode": "APPOINT",
+      "docDate": "2025-09-10",
+      "docRecordedDateOnly": null,
+      "docRecordedTimeOnly": null,
+      "docRecordedDateTime": [
+        "2025-09-16",
+        "08:02:20.88"
+      ],
+      "refNo": "",
+      "bookPage": null,
+      "book": null,
+      "page": null,
+      "consideration": 0.0,
+      "legalSummary": "S: 34 T: 40 R: 5",
+      "imageExists": true,
+      "docStatus": "A",
+      "partyOne": "GORGES JENNIFER ",
+      "partyOneType": "GRANTOR",
+      "partyTwo": "MILLSAP AND SINGER PC",
+      "partyTwoType": "GRANTEE",
+      "pages": 3,
+      "assocDocSummary": "2024R-001474 ",
+      "notes": null,
+      "associatedDocumentList": [
+        {
+          "id": 8227822,
+          "searchDocId": 2096574,
+          "name": "2024R-001474",
+          "imageExists": true,
+          "numberOfPages": 29,
+          "inRepository": true,
+          "documentType": "DEED OF TRUST"
+        }
+      ],
+      "legalList": [
+        {
+          "id": 576383,
+          "legalType": "T",
+          "description": "S: 34 T: 40 R: 5",
+          "notes": null,
+          "portion": null,
+          "propertyNotes": null,
+          "gisParcelStringUrl": null
+        }
+      ],
+      "lawPartyList": [
+        {
+          "id": 5979390,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "GORGES JENNIFER ",
+          "middleName": null,
+          "fullName": "GORGES JENNIFER "
+        },
+        {
+          "id": 5979392,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "PHH MORTGAGE CORP ",
+          "middleName": null,
+          "fullName": "PHH MORTGAGE CORP "
+        },
+        {
+          "id": 5979391,
+          "partyTypeId": 2,
+          "partyTypeDescription": "GRANTEE",
+          "name": null,
+          "additionalName": "MILLSAP AND SINGER PC",
+          "middleName": null,
+          "fullName": "MILLSAP AND SINGER PC"
+        }
+      ],
+      "returnTo": {
+        "id": 79516,
+        "address1": "612 SPIRIT DR",
+        "address2": null,
+        "address3": "ST. LOUIS, MO  63005",
+        "fullAddress": "MILLSAP AND SINGER, P.C.",
+        "name": "MILLSAP AND SINGER, P.C."
+      },
+      "feeList": [
+        {
+          "id": 6,
+          "name": "RECORDING FEE",
+          "amount": 30.0
+        }
+      ],
+      "shielded": false
+    },
+    {
+      "searchDocId": 2171055,
+      "docNo": 8306508,
+      "userDocNo": "2025R-023395",
+      "docType": "APPOINTMENT",
+      "docTypeCode": "APPOINT",
+      "docDate": "2025-09-10",
+      "docRecordedDateOnly": null,
+      "docRecordedTimeOnly": null,
+      "docRecordedDateTime": [
+        "2025-09-15",
+        "08:04:06.7733333"
+      ],
+      "refNo": "",
+      "bookPage": null,
+      "book": null,
+      "page": null,
+      "consideration": 0.0,
+      "legalSummary": "Sub: HIGH RIDGE ACRES  10-43A  Lot: 6",
+      "imageExists": true,
+      "docStatus": "A",
+      "partyOne": "SHELLPOINT MORTGAGE SERVICING ",
+      "partyOneType": "GRANTOR",
+      "partyTwo": "CSM FORECLOSURE TRUSTEE CORP ",
+      "partyTwoType": "GRANTEE",
+      "pages": 2,
+      "assocDocSummary": "2016R-036583 ",
+      "notes": null,
+      "associatedDocumentList": [
+        {
+          "id": 2111244,
+          "searchDocId": 1716027,
+          "name": "2016R-036583",
+          "imageExists": true,
+          "numberOfPages": 15,
+          "inRepository": true,
+          "documentType": "DEED OF TRUST"
+        }
+      ],
+      "legalList": [
+        {
+          "id": 1691057,
+          "legalType": "S",
+          "description": "HIGH RIDGE ACRES  10-43A L:6   ",
+          "notes": "BOOK: 0010 PAGE: 0043A\r\nCABINET: A SLIDE: 230",
+          "portion": null,
+          "propertyNotes": null,
+          "gisParcelStringUrl": null
+        }
+      ],
+      "lawPartyList": [
+        {
+          "id": 5978773,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "NEELY LINDA ",
+          "middleName": null,
+          "fullName": "NEELY LINDA "
+        },
+        {
+          "id": 5978772,
+          "partyTypeId": 2,
+          "partyTypeDescription": "GRANTEE",
+          "name": null,
+          "additionalName": "CSM FORECLOSURE TRUSTEE CORP ",
+          "middleName": null,
+          "fullName": "CSM FORECLOSURE TRUSTEE CORP "
+        },
+        {
+          "id": 5978774,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "NEWREZ LLC ",
+          "middleName": null,
+          "fullName": "NEWREZ LLC "
+        },
+        {
+          "id": 5978775,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "SHELLPOINT MORTGAGE SERVICING ",
+          "middleName": null,
+          "fullName": "SHELLPOINT MORTGAGE SERVICING "
+        }
+      ],
+      "returnTo": {
+        "id": 114118,
+        "address1": "15W030 NORTH FRONTAGE ROAD",
+        "address2": null,
+        "address3": "BURR RIDGE, IL  60527",
+        "fullAddress": "CODILIS, MOODY AND CIRCELLI, P.C.",
+        "name": "CODILIS, MOODY AND CIRCELLI, P.C."
+      },
+      "feeList": [
+        {
+          "id": 6,
+          "name": "RECORDING FEE",
+          "amount": 27.0
+        }
+      ],
+      "shielded": false
+    },
+    {
+      "searchDocId": 2171055,
+      "docNo": 8306508,
+      "userDocNo": "2025R-023395",
+      "docType": "APPOINTMENT",
+      "docTypeCode": "APPOINT",
+      "docDate": "2025-09-10",
+      "docRecordedDateOnly": null,
+      "docRecordedTimeOnly": null,
+      "docRecordedDateTime": [
+        "2025-09-15",
+        "08:04:06.7733333"
+      ],
+      "refNo": "",
+      "bookPage": null,
+      "book": null,
+      "page": null,
+      "consideration": 0.0,
+      "legalSummary": "Sub: HIGH RIDGE ACRES  10-43A  Lot: 6",
+      "imageExists": true,
+      "docStatus": "A",
+      "partyOne": "NEWREZ LLC ",
+      "partyOneType": "GRANTOR",
+      "partyTwo": "CSM FORECLOSURE TRUSTEE CORP ",
+      "partyTwoType": "GRANTEE",
+      "pages": 2,
+      "assocDocSummary": "2016R-036583 ",
+      "notes": null,
+      "associatedDocumentList": [
+        {
+          "id": 2111244,
+          "searchDocId": 1716027,
+          "name": "2016R-036583",
+          "imageExists": true,
+          "numberOfPages": 15,
+          "inRepository": true,
+          "documentType": "DEED OF TRUST"
+        }
+      ],
+      "legalList": [
+        {
+          "id": 1691057,
+          "legalType": "S",
+          "description": "HIGH RIDGE ACRES  10-43A L:6   ",
+          "notes": "BOOK: 0010 PAGE: 0043A\r\nCABINET: A SLIDE: 230",
+          "portion": null,
+          "propertyNotes": null,
+          "gisParcelStringUrl": null
+        }
+      ],
+      "lawPartyList": [
+        {
+          "id": 5978773,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "NEELY LINDA ",
+          "middleName": null,
+          "fullName": "NEELY LINDA "
+        },
+        {
+          "id": 5978772,
+          "partyTypeId": 2,
+          "partyTypeDescription": "GRANTEE",
+          "name": null,
+          "additionalName": "CSM FORECLOSURE TRUSTEE CORP ",
+          "middleName": null,
+          "fullName": "CSM FORECLOSURE TRUSTEE CORP "
+        },
+        {
+          "id": 5978774,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "NEWREZ LLC ",
+          "middleName": null,
+          "fullName": "NEWREZ LLC "
+        },
+        {
+          "id": 5978775,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "SHELLPOINT MORTGAGE SERVICING ",
+          "middleName": null,
+          "fullName": "SHELLPOINT MORTGAGE SERVICING "
+        }
+      ],
+      "returnTo": {
+        "id": 114118,
+        "address1": "15W030 NORTH FRONTAGE ROAD",
+        "address2": null,
+        "address3": "BURR RIDGE, IL  60527",
+        "fullAddress": "CODILIS, MOODY AND CIRCELLI, P.C.",
+        "name": "CODILIS, MOODY AND CIRCELLI, P.C."
+      },
+      "feeList": [
+        {
+          "id": 6,
+          "name": "RECORDING FEE",
+          "amount": 27.0
+        }
+      ],
+      "shielded": false
+    },
+    {
+      "searchDocId": 2171055,
+      "docNo": 8306508,
+      "userDocNo": "2025R-023395",
+      "docType": "APPOINTMENT",
+      "docTypeCode": "APPOINT",
+      "docDate": "2025-09-10",
+      "docRecordedDateOnly": null,
+      "docRecordedTimeOnly": null,
+      "docRecordedDateTime": [
+        "2025-09-15",
+        "08:04:06.7733333"
+      ],
+      "refNo": "",
+      "bookPage": null,
+      "book": null,
+      "page": null,
+      "consideration": 0.0,
+      "legalSummary": "Sub: HIGH RIDGE ACRES  10-43A  Lot: 6",
+      "imageExists": true,
+      "docStatus": "A",
+      "partyOne": "NEELY LINDA ",
+      "partyOneType": "GRANTOR",
+      "partyTwo": "CSM FORECLOSURE TRUSTEE CORP ",
+      "partyTwoType": "GRANTEE",
+      "pages": 2,
+      "assocDocSummary": "2016R-036583 ",
+      "notes": null,
+      "associatedDocumentList": [
+        {
+          "id": 2111244,
+          "searchDocId": 1716027,
+          "name": "2016R-036583",
+          "imageExists": true,
+          "numberOfPages": 15,
+          "inRepository": true,
+          "documentType": "DEED OF TRUST"
+        }
+      ],
+      "legalList": [
+        {
+          "id": 1691057,
+          "legalType": "S",
+          "description": "HIGH RIDGE ACRES  10-43A L:6   ",
+          "notes": "BOOK: 0010 PAGE: 0043A\r\nCABINET: A SLIDE: 230",
+          "portion": null,
+          "propertyNotes": null,
+          "gisParcelStringUrl": null
+        }
+      ],
+      "lawPartyList": [
+        {
+          "id": 5978773,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "NEELY LINDA ",
+          "middleName": null,
+          "fullName": "NEELY LINDA "
+        },
+        {
+          "id": 5978772,
+          "partyTypeId": 2,
+          "partyTypeDescription": "GRANTEE",
+          "name": null,
+          "additionalName": "CSM FORECLOSURE TRUSTEE CORP ",
+          "middleName": null,
+          "fullName": "CSM FORECLOSURE TRUSTEE CORP "
+        },
+        {
+          "id": 5978774,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "NEWREZ LLC ",
+          "middleName": null,
+          "fullName": "NEWREZ LLC "
+        },
+        {
+          "id": 5978775,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "SHELLPOINT MORTGAGE SERVICING ",
+          "middleName": null,
+          "fullName": "SHELLPOINT MORTGAGE SERVICING "
+        }
+      ],
+      "returnTo": {
+        "id": 114118,
+        "address1": "15W030 NORTH FRONTAGE ROAD",
+        "address2": null,
+        "address3": "BURR RIDGE, IL  60527",
+        "fullAddress": "CODILIS, MOODY AND CIRCELLI, P.C.",
+        "name": "CODILIS, MOODY AND CIRCELLI, P.C."
+      },
+      "feeList": [
+        {
+          "id": 6,
+          "name": "RECORDING FEE",
+          "amount": 27.0
+        }
+      ],
+      "shielded": false
+    },
+    {
+      "searchDocId": 2171055,
+      "docNo": 8306508,
+      "userDocNo": "2025R-023395",
+      "docType": "APPOINTMENT",
+      "docTypeCode": "APPOINT",
+      "docDate": "2025-09-10",
+      "docRecordedDateOnly": null,
+      "docRecordedTimeOnly": null,
+      "docRecordedDateTime": [
+        "2025-09-15",
+        "08:04:06.7733333"
+      ],
+      "refNo": "",
+      "bookPage": null,
+      "book": null,
+      "page": null,
+      "consideration": 0.0,
+      "legalSummary": "Sub: HIGH RIDGE ACRES  10-43A  Lot: 6",
+      "imageExists": true,
+      "docStatus": "A",
+      "partyOne": "CSM FORECLOSURE TRUSTEE CORP ",
+      "partyOneType": "GRANTEE",
+      "partyTwo": "NEELY LINDA ",
+      "partyTwoType": "GRANTOR",
+      "pages": 2,
+      "assocDocSummary": "2016R-036583 ",
+      "notes": null,
+      "associatedDocumentList": [
+        {
+          "id": 2111244,
+          "searchDocId": 1716027,
+          "name": "2016R-036583",
+          "imageExists": true,
+          "numberOfPages": 15,
+          "inRepository": true,
+          "documentType": "DEED OF TRUST"
+        }
+      ],
+      "legalList": [
+        {
+          "id": 1691057,
+          "legalType": "S",
+          "description": "HIGH RIDGE ACRES  10-43A L:6   ",
+          "notes": "BOOK: 0010 PAGE: 0043A\r\nCABINET: A SLIDE: 230",
+          "portion": null,
+          "propertyNotes": null,
+          "gisParcelStringUrl": null
+        }
+      ],
+      "lawPartyList": [
+        {
+          "id": 5978773,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "NEELY LINDA ",
+          "middleName": null,
+          "fullName": "NEELY LINDA "
+        },
+        {
+          "id": 5978772,
+          "partyTypeId": 2,
+          "partyTypeDescription": "GRANTEE",
+          "name": null,
+          "additionalName": "CSM FORECLOSURE TRUSTEE CORP ",
+          "middleName": null,
+          "fullName": "CSM FORECLOSURE TRUSTEE CORP "
+        },
+        {
+          "id": 5978774,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "NEWREZ LLC ",
+          "middleName": null,
+          "fullName": "NEWREZ LLC "
+        },
+        {
+          "id": 5978775,
+          "partyTypeId": 1,
+          "partyTypeDescription": "GRANTOR",
+          "name": null,
+          "additionalName": "SHELLPOINT MORTGAGE SERVICING ",
+          "middleName": null,
+          "fullName": "SHELLPOINT MORTGAGE SERVICING "
+        }
+      ],
+      "returnTo": {
+        "id": 114118,
+        "address1": "15W030 NORTH FRONTAGE ROAD",
+        "address2": null,
+        "address3": "BURR RIDGE, IL  60527",
+        "fullAddress": "CODILIS, MOODY AND CIRCELLI, P.C.",
+        "name": "CODILIS, MOODY AND CIRCELLI, P.C."
+      },
+      "feeList": [
+        {
+          "id": 6,
+          "name": "RECORDING FEE",
+          "amount": 27.0
+        }
+      ],
+      "shielded": false
+    }
+  ],
+  "auth_token": "Bearer eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkEyNTZDQkMtSFM1MTIiLCJraWQiOiI2MkUxMDZBNkRERkM2MUZDQUVENDMwQUI3NTUyRDM1OEQ0OTgyODRBIiwidHlwIjoiYXQrand0IiwiY3R5IjoiSldUIn0.xRHw1oyuaHtjsd6wvgvIRy2oSPCHT5URiEDR40kPcpkat817_UeQfeKzN0Q27QoE57Fln3ECh7PAnPvBGKv3X4Jx2pr-UY-jw_Y-0Wbkjoy2dMkBtLsfYbzjTfpaw7xsrupinUZaPBV2BFr4Y8EkOwTQpWUHEtvuJLE-gCdR657J-lG2gtpcFS38E080GipymGJ-H9-mPZzVZBNClcOal9N9bD1BIPXzO09nmpWxveippZU6vxJkhrDwiADC5A6gMaOEysKHsOWKTzmtW68Kn8rib3AjDQiAR4hZTUb2MfztSfs3VGhrklldF0qn1qTFqkrDWl0QERkJoX1sr50qtA.I6e7i-is1O83-4UiLc3wAQ.bHqFNBuzA5VkBIO8zjdOvQIuqAJop301woQBM225mSYSyEnesb3352GTde534B8mQLLjdwMK8XUbQb5JLp0gL1sSeOFu3AV3C9zHBUELqYJQbOi-Ybe1JdOWF-d1-un5xyiZLxqBeyJLTYlf1x4OmugDXmh6HrydROicviLmha5CpvQ0U8je1V41vOHWhKzj3dLHyC9Kr-HeQZfwGhb_hMhng-GHgdchM-iKW62uBAT1r-6v4fIXoCGQyIfkD0WIV6JMdD7dF4rStocDwiaIhElHZzNfrqk9BqJ5pFLbtzFbiE7kvCPJe7pTe6j7dReQdl4Crj2MhYPoFDctqPEzyQd-z_sZEeR-r6w5URPaKqDXcTT2HponkqnauxLG2AfUaobEseIjxX6AIiDlfn-PCpdxDL3Ju_MMpbiSdbT6YFMtNHvCyE4xuYM5YMGKN-vKYUK9cZP0277go1htKnw4SLhfaHjYYKbvK5F76d8E_q4fHi6gYMqtiTzJQwYLzUhvzPVz7I3uBqAwPMmi4TSwVVI3wyCOS7M3uq40cfW3eEvKwh_Sr06E4QDncmrGHNZzon1r8txMglmfP5gNsob1OmWzSqpSFIbOWVO-LUDiq5-Weubwp7G1xDtvK3bYshnbCmO8jzLXsmumjGu39vajaAO-ipVFUZ406vSDW-8O5ZFmc6ARMIh_6-t08VTbRNi0zY2FlHniw5MzpO2a6SJzaahnqbZZBImZ6afUvkrtWmAk1VKAfMbypVtlPDxObmnYnox7TpkaMbgzk2dOlPTw3eUJh57fCACiy_YdpY-au_8uLsYE_FjyNMlIlobKbITsT3Exzs0wmTOAHVYSe6dwfiVHjrk0AG7fauxd-WtSsx2mduu92gn_OhZQBKDyFI4b__qYZ2Hg3a2KIc43NDezvK1kHVj_37QnrfErSvACAtp1XyqNDFnwJlxtPdqcQhUV9IgTxU2f4wTy4J-GyswidUOfK022RrtY97-SayneuB2sUUkpU9KJ1zMYmf_x6CnFvzMrYWMN17GVkGqp0RfCSIMl2r_2KlvGehqVRbwrYs68OUK5Id8VImWls07HEPnDokQwaxxv6XjJy9wgdTcquU9m69r_rvNUXkmVhatusGMjEBI1dJ8_Ikleed3OQmEemoM548oy-I_H01u93NVlgf07_-wxvyDU7a1qLj2jqIttxZo8gLCE28iFmRgc8tpuNUUcdQ62Gmx5NsAFBUJPpZcluaTLalAUEwsSly_m_LwyxxznznJHoytSIbKHlW97K1cfGQHwEUxG2lCPKvxHfOvaAUxPkHl78JsXjLtD47drfEOpvbgvXTEYXgSiLHrx.Ycm9H0RsnIAQkYiNhwegkmSI35ryKjldb6YtVShX1LM"
 }
