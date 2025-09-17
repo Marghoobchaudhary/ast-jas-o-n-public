@@ -1,6 +1,24 @@
 [
   {
     "id": "st-louis-county-1",
+    "Doc Number": "2025091600481",
+    "Party1": "SHELLPOINT MORTGAGE SERVICING  (GRANTOR )",
+    "Party2": "NEWREZ LLC  (GRANTOR )",
+    "Party3": "CSM FORECLOSURE TRUSTEE CORPORATION  (GRANTEE)",
+    "Party4": "",
+    "Party5": "",
+    "Party6": "",
+    "Book & Page": null,
+    "Doc Date": "",
+    "Recorded Date": "09/16/2025",
+    "Doc Type": "APPOINTMENT OF SUCCESSOR TRUSTEE",
+    "Assoc Doc": null,
+    "Legal Summary": "",
+    "Consideration": "$0.0",
+    "Pages": 3
+  },
+  {
+    "id": "st-louis-county-4",
     "Doc Number": "2025091600286",
     "Party1": "SOUTHLAW PC  (GRANTEE)",
     "Party2": "SHELLPOINT MORTGAGE SERVICING  (GRANTOR )",
@@ -18,7 +36,7 @@
     "Pages": 3
   },
   {
-    "id": "st-louis-county-4",
+    "id": "st-louis-county-7",
     "Doc Number": "2025091600270",
     "Party1": "FTF LENDING LLC  (GRANTOR )",
     "Party2": "SOUTHLAW PC  (GRANTEE)",
@@ -36,7 +54,7 @@
     "Pages": 3
   },
   {
-    "id": "st-louis-county-6",
+    "id": "st-louis-county-9",
     "Doc Number": "2025091600192",
     "Party1": "NESTOR SOLUTIONS OF MISSOURI LLC  (GRANTEE)",
     "Party2": "FREEDOM MORTGAGE CORPORATION  (GRANTOR )",
@@ -54,7 +72,7 @@
     "Pages": 3
   },
   {
-    "id": "st-louis-county-8",
+    "id": "st-louis-county-11",
     "Doc Number": "2025091600032",
     "Party1": "NESTOR SOLUTIONS OF MISSOURI LLC  (GRANTEE)",
     "Party2": "FREEDOM MORTGAGE CORPORATION  (GRANTOR )",
@@ -72,7 +90,7 @@
     "Pages": 3
   },
   {
-    "id": "st-louis-county-10",
+    "id": "st-louis-county-13",
     "Doc Number": "2025091500017",
     "Party1": "SHELLPOINT MORTGAGE SERVICING  (GRANTEE)",
     "Party2": "NEWREZ LLC  (GRANTOR )",
